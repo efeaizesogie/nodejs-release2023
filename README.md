@@ -19,10 +19,10 @@ Follow the steps below to get the project up and running on your local machine.
 git clone <repository_url>
 cd nodejs-release2023
 
-## Install Dependencies
+### 2. Install Dependencies
 npm install
 
-## Project Structure
+### 3. Project Structure
   ├── src/
   │   ├── index.js      # Entry point of your application
   │   └── ...           # Other source files
@@ -33,6 +33,6 @@ npm install
   ├── package-lock.json # Dependency tree with versions (auto-generated)
   └── ...               # Other project files
 
-## Running the program
+### 4. Running the Program
 npm start
 
